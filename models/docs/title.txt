@@ -1,0 +1,56 @@
+
+                                                                                                                                          
+                                                                                                                                          
+MMMMMMMM               MMMMMMMM                                        NNNNNNNN        NNNNNNNN                             tttt          
+M:::::::M             M:::::::M                                        N:::::::N       N::::::N                          ttt:::t          
+M::::::::M           M::::::::M                                        N::::::::N      N::::::N                          t:::::t          
+M:::::::::M         M:::::::::M                                        N:::::::::N     N::::::N                          t:::::t          
+M::::::::::M       M::::::::::M  aaaaaaaaaaaaayyyyyyy           yyyyyyyN::::::::::N    N::::::N    eeeeeeeeeeee    ttttttt:::::ttttttt    
+M:::::::::::M     M:::::::::::M  a::::::::::::ay:::::y         y:::::y N:::::::::::N   N::::::N  ee::::::::::::ee  t:::::::::::::::::t    
+M:::::::M::::M   M::::M:::::::M  aaaaaaaaa:::::ay:::::y       y:::::y  N:::::::N::::N  N::::::N e::::::eeeee:::::eet:::::::::::::::::t    
+M::::::M M::::M M::::M M::::::M           a::::a y:::::y     y:::::y   N::::::N N::::N N::::::Ne::::::e     e:::::etttttt:::::::tttttt    
+M::::::M  M::::M::::M  M::::::M    aaaaaaa:::::a  y:::::y   y:::::y    N::::::N  N::::N:::::::Ne:::::::eeeee::::::e      t:::::t          
+M::::::M   M:::::::M   M::::::M  aa::::::::::::a   y:::::y y:::::y     N::::::N   N:::::::::::Ne:::::::::::::::::e       t:::::t          
+M::::::M    M:::::M    M::::::M a::::aaaa::::::a    y:::::y:::::y      N::::::N    N::::::::::Ne::::::eeeeeeeeeee        t:::::t          
+M::::::M     MMMMM     M::::::Ma::::a    a:::::a     y:::::::::y       N::::::N     N:::::::::Ne:::::::e                 t:::::t    tttttt
+M::::::M               M::::::Ma::::a    a:::::a      y:::::::y        N::::::N      N::::::::Ne::::::::e                t::::::tttt:::::t
+M::::::M               M::::::Ma:::::aaaa::::::a       y:::::y         N::::::N       N:::::::N e::::::::eeeeeeee        tt::::::::::::::t
+M::::::M               M::::::M a::::::::::aa:::a     y:::::y          N::::::N        N::::::N  ee:::::::::::::e          tt:::::::::::tt
+MMMMMMMM               MMMMMMMM  aaaaaaaaaa  aaaa    y:::::y           NNNNNNNN         NNNNNNN    eeeeeeeeeeeeee            ttttttttttt  
+                                                    y:::::y                                                                               
+                                                   y:::::y                                                                                
+                                                  y:::::y                                                                                 
+                                                 y:::::y                                                                                  
+                                                yyyyyyy                                                                                   
+                                                                                                                                          
+                                                                                                                                          
+
+Welcome to MayNet (name WIP)! This program allows you to quickly experiment with different
+Machine Learning algorithms and pipelines that I've manually implemented while following 
+along to Bishop's Pattern Recognition and Machine Learning textbook. A few guidelines are 
+listed here to demonstrate proper use of this program.
+
+Instructions to navigate this program are formatted as such:
+
+    [command] [option] [flags...]
+    
+The following list is a heirarchical set of some basic commands organized like so:
+
+    command:
+        options:
+            flags:
+
+Available Instructions:
+
+    display: show more information about an option
+        about-me: a verbose introduction to this program and why it exists
+        RandomDataGen: briefly describes options to randomly generate data
+            -verbose: describes RandomDataGen options in-detail
+            
+    load: create and save a dataset for experimentation
+        random-sin: generates a sinusoidal dataset with some Gaussian noise
+            -stats: provides basic stats about the data including mean, standard deviation, etc.
+
+    quit: exits the program and returns control of your shell
+
+Complete documentation of all possible commands can be found here: (INSERT LINK).

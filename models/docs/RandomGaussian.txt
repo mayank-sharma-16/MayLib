@@ -1,0 +1,5 @@
+Random Gaussian
+    By default, this function generates data by sampling a Gaussian (normal) distribution with mean=0, STD=0.3 and returns
+    a single vector of data. The following values here can be modified:
+        1. The mean
+        2. The STD

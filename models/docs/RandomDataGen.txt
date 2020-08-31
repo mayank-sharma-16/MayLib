@@ -1,0 +1,3 @@
+Random Data Generators
+    1. Random Sinusoidal (RandomSin)
+    2. Gaussian Distribution (GaussianDist)

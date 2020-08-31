@@ -1,0 +1,7 @@
+Random Sinusoidal
+    By default, this function generates data by combining a sinusoidal function (2*pi*x) with Gaussian noise (mean=0,SD=0.3),
+    as implemented in PRML's Appendix D and returns two vectors: one of the X values, one of the Y values. The X values are 
+    generated randomly used a uniform real distribution within the range of 0 to 1. The following values can be modified:
+        1. The amplitude 
+        2. The Gaussian mean
+        3. The Gaussian SD
